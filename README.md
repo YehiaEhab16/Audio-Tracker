@@ -1,4 +1,4 @@
-#Audio Tracker
+# Audio Tracker
 
 MATLAB GUI to generate any plot any song in frequency and time domain, add noise to it and finally filters it from noise.
 
@@ -8,4 +8,4 @@ Project.m and Project.fig are the GUI files.
 
 song.MP3 is just a test song, you can also inport any song of your choice.
 
-##Yehia Ehab
+## Yehia Ehab
