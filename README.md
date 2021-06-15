@@ -1,6 +1,6 @@
 # Audio Tracker
 
-MATLAB GUI to generate any plot any song in frequency and time domain, add noise to it and finally filters it from noise.
+MATLAB GUI to generate and plot any song in frequency and time domain, add noise to it and finally filters it from noise.
 
 final_project1.m is just the concept code.
 
